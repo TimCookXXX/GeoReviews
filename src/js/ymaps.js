@@ -6,8 +6,7 @@ function mapInit() {
         const myMap = new ymaps.Map('map', {
             center: [55.75, 37.62],
             zoom: 13.5,
-            controls: ['zoomControl'],
-            behaviors: ['drag']
+            controls: ['zoomControl']
         }, {
             balloonMaxWidth: 353,
             balloonMaxHeight: 501,
