@@ -1,0 +1,128 @@
+body {
+  margin: auto;
+}
+.review__title {
+  margin-bottom: 23px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.review__input {
+  padding: 5px 10px;
+  width: 310px;
+  height: 38px;
+  margin-bottom: 10px;
+  border: 1px solid #CFCFCF;
+  border-radius: 3px;
+  outline-color: #1371C8;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+
+}
+
+.review__textarea {
+  margin-bottom: 19px;
+  resize: none;
+  width: 310px;
+  height: 98px;
+  border: 1px solid #CFCFCF;
+  border-radius: 3px;
+  outline-color: #1371C8;
+  padding: 6px 10px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+
+}
+
+#review__button {
+  width: 107px;
+  height: 38px;
+  background: #FF8663;
+  color: #FFFFFF;
+  border-radius: 3px;
+  border-style: none;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+::placeholder {
+  font-family: 'Arial';
+  font-style: normal;
+  color: #000000;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+::-ms-input-placeholder {
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+}
+
+.reviews {
+  padding: 22px 3px 0px;
+  max-height: 127px;
+  overflow-y: scroll;
+}
+
+.review__info {
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  margin-right: 10px;
+}
+
+.review__text {
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #8F8F8F;
+  margin-bottom: 27px;
+}
+
+.review__place {
+  color: #8F8F8F;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  margin-right: 10px;
+}
+
+.review__time {
+  color: #8F8F8F;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.review__content {
+  display: flex;
+  margin-bottom: 7px;
+}
+
+
+/*# sourceMappingURL=index.css.map*/
