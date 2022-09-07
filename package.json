@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": "Arsenii Berezin",
   "scripts": {
-    "build": "webpack --progress --colors --mode production",
+    "build": "webpack --progress --mode production",
     "watch": "webpack serve --progress --open --mode development",
     "start": "yarn watch"
   },
@@ -33,5 +33,9 @@
     "webpack": "^5.10.1",
     "webpack-cli": "^4.2.0",
     "webpack-dev-server": "^3.11.0"
-  }
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions"
+  ]
 }

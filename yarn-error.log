@@ -33,8 +33,8 @@ npm manifest:
     "main": "index.js",
     "author": "Arsenii Berezin",
     "scripts": {
-      "build": "webpack --progress --colors",
-      "watch": "webpack-dev-server --progress --colors --open",
+      "build": "webpack --progress",
+      "watch": "webpack-dev-server --progress --open",
       "start": "yarn watch"
     },
     "license": "MIT",
