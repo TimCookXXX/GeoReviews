@@ -20,3 +20,7 @@
 - HTML, CSS
 
 ![](https://github.com/TimCookXXX/GeoReviews/blob/master/ymaps.png)
+
+![me](https://github.com/TimCookXXX/GeoReviews/blob/master/ymaps.gif)
+
+
