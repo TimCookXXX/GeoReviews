@@ -19,4 +19,4 @@
 - API Яндекс-карт
 - HTML, CSS
 
-![](https://github.com/tlenchik/geo-review/blob/b10015e0cb05c14b8ac68c3468e8a0e1e26f2080/yamaps.png)
+![](https://github.com/TimCookXXX/GeoReviews/blob/master/ymaps.png)
